@@ -61,16 +61,15 @@ ERASURE combines original storytelling, character development, AI-assisted visua
 
 AI-assisted tools support portions of the development process. Creative direction, narrative decisions, implementation, review, and final approval remain developer-led.
 
-Copyright & Ownership
-
+## Copyright & Ownership
 © 2026 Thisha Smith. All rights reserved.
 
 ERASURE is an independently developed narrative mystery visual novel created by Thisha Smith.
 
 All original story content, characters, scripts, branding, and other original creative materials are protected by applicable copyright law. Third-party assets and AI-assisted materials remain subject to their respective ownership, licensing, and copyright considerations.
 
-Developer: Thisha Smith
-Publisher: Kush Novels LLC 
+**Developer:** Thisha Smith  
+**Publisher:** Kush Novels LLC
 
 Unauthorized reproduction or redistribution of copyrighted ERASURE materials is prohibited, except as permitted by law or applicable licenses.
 ---
