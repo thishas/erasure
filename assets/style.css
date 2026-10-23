@@ -155,3 +155,13 @@ h2,h3,.journal-page h1 { font-weight:500; letter-spacing:.01em; }
 .back-to-top:focus-visible { outline: 3px solid #83e5f4; outline-offset: 3px; }
 @media(max-width: 620px) { .back-to-top { min-width: 54px; min-height: 48px; padding: 10px 12px; } .back-to-top-label { display: none; } }
 @media(prefers-reduced-motion: reduce) { .back-to-top { transition: none; transform: none; } }
+
+/* V6.8.1 — Mobile-only: show the complete The Unwritten artwork without cropping. */
+@media (max-width: 620px) {
+  .universe-banner {
+    width: 100%;
+    height: auto;
+    aspect-ratio: auto;
+    object-fit: contain;
+  }
+}
